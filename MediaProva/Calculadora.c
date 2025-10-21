@@ -17,6 +17,7 @@ int main() {
 
     calc = (n1 + n2 + n3 + n4) / divi;
 
-    printf("%d", calc);
+    printf("Sua Média é %d", calc);
+
 
 }
